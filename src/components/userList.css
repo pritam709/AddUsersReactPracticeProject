@@ -1,0 +1,11 @@
+.userDisplay {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(211, 210, 209);
+    border: solid 4px black;
+    border-radius: 20px;
+    
+    margin: 4rem;
+
+    font-size: 1.5rem;
+}
